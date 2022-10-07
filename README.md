@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IT technician 👨🏽‍💻 stuff at school 🏫 with some coding in free time 
 - 💞️ I’m looking to collaborate on some very basic stuff so probably nothing
 - 📫 How to reach me 
-   Github 
+   - This Github 
    
    
 
