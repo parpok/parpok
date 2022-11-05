@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parpok
 - 👀 I’m interested in PCs 💻, Server stuff 🖥 and I like to listen to music 🎧
-- 🌱 I’m currently learning IT technician 👨🏽‍💻 stuff at school 🏫 with some coding(C++ and JS) in free time 
-- 💞️ I’m looking to collaborate on some very basic stuff so probably nothing
+- 🌱 I’m currently learning IT 👨🏽‍💻 stuff at school 🏫 with some coding (C++ and JS) in free time 
+- 💞️ I’m not really looking to collaborate since probably nothing would work out
 - 📫 How to reach me 
    - This Github 
    
