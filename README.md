@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IT 👨🏽‍💻 stuff at school 🏫 with some coding (C++ and JS) in free time 
 - 💞️ I’m not really looking to collaborate since probably nothing would work out
 - 📫 How to reach me 
-   - This Github 
+   - Right now I don't have one so theres none 😔
    
    
 
